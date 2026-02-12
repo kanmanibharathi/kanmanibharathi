@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanmani Bharathi J</h1>
-<h3 align="center">Ph.D. Researcher | Plant Molecular Biology | Biotechnology | Computational Biology</h3>
+<h3 align="center">Ph.D. Researcher | Plant Molecular Biology | Biotechnology | Bioinformatics</h3>
 
 <br>
 
@@ -19,6 +19,9 @@
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="mailto:contact@kanmanibharathi.info">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -26,7 +29,7 @@
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp,html,css,javascript,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,javascript,html,css,react,vite,git,github,cloudflare,oracle,firebase,vscode,nodejs,typescript" />
 </p>
 
 ---
@@ -42,11 +45,12 @@
 
 ## 💡 About Me
 
-- 🔬 Cancer biology & colitis-associated carcinogenesis research  
-- 🧬 Molecular docking of phytocompounds  
-- 📊 Statistical analysis (ANOVA, experimental design)  
-- 🧪 GC-MS & LC-MS interpretation  
-- 📘 Scientific writing & research automation  
+- 🔬 Researcher in Plant Molecular Biology & Biotechnology  
+- 🧬 Specialized in Bioinformatics & Molecular Docking  
+- 🧪 Experienced in GC-MS & LC-MS data interpretation  
+- 📊 Strong in statistical analysis & experimental design  
+- 🚀 Founder of <a href="https://oneresearchhub.in/" target="_blank">One Research Hub</a>  
+- 📘 Passionate about scientific writing & research automation  
 
 ---
 
