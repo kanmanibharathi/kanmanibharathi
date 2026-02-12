@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kanmani Bharathi J</h1>
 <h3 align="center">Ph.D. Researcher | Plant Molecular Biology | Biotechnology | Computational Biology</h3>
 
----
+<br>
 
-## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://kanmanibharathi.info/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kanmani-bharathi-j/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,13 +16,16 @@
   <a href="https://github.com/kanmanibharathi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
@@ -41,11 +42,11 @@
 
 ## 💡 About Me
 
-- 🔬 Working on cancer biology & colitis-associated carcinogenesis models  
-- 🧬 Conducting molecular docking studies on phytocompounds  
-- 📊 Skilled in ANOVA, experimental design & data interpretation  
-- 🧪 Experienced in GC-MS & LC-MS analysis  
-- 📘 Passionate about scientific writing & research automation  
+- 🔬 Cancer biology & colitis-associated carcinogenesis research  
+- 🧬 Molecular docking of phytocompounds  
+- 📊 Statistical analysis (ANOVA, experimental design)  
+- 🧪 GC-MS & LC-MS interpretation  
+- 📘 Scientific writing & research automation  
 
 ---
 
