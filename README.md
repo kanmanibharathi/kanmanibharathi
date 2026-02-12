@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Passionate Developer | Researcher | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Kanmani Bharathi J</h1>
+<h3 align="center">Ph.D. Researcher | Plant Molecular Biology | Biotechnology | Computational Biology</h3>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://kanmanibharathi.info/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kanmani-bharathi-j/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://orcid.org/0000-0003-1774-7314" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/kanmanibharathi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ## 🧠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -33,19 +33,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanmanibharathi&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanmanibharathi&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently working on: Your Project
-- 🌱 Learning: AI / Web Development / Data Science
-- 💬 Ask me about: Programming & Research
-- ⚡ Fun fact: I love building impactful solutions!
+- 🔬 Working on cancer biology & colitis-associated carcinogenesis models  
+- 🧬 Conducting molecular docking studies on phytocompounds  
+- 📊 Skilled in ANOVA, experimental design & data interpretation  
+- 🧪 Experienced in GC-MS & LC-MS analysis  
+- 📘 Passionate about scientific writing & research automation  
 
 ---
 
-⭐️ From [YourName](https://github.com/yourusername)
+⭐️ From <a href="https://github.com/kanmanibharathi">Kanmani Bharathi</a>
