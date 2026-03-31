@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanmani Bharathi J</h1>
-<h3 align="center">Ph.D. Researcher | Plant Molecular Biology | Biotechnology | Bioinformatics</h3>
+<h3 align="center">Researcher | Plant Molecular Biology | Biotechnology | Bioinformatics</h3>
 
 <br>
 
