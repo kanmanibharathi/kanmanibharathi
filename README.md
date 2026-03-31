@@ -29,7 +29,7 @@
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,javascript,html,css,react,vite,git,github,cloudflare,oracle,firebase,vscode,nodejs,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,r,,javascript,html,css,react,git,github,cloudflare,oracle,vscode," />
 </p>
 
 ---
