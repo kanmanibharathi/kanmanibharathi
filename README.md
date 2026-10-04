@@ -19,7 +19,7 @@
 <br/>
 
 <p>
-&nbsp;&nbsp;🎓 &nbsp;<b>PhD · Plant Molecular Biology &amp; Biotechnology</b><br/>
+&nbsp;&nbsp;🎓 &nbsp;<b>Dr. · PhD in Plant Molecular Biology &amp; Biotechnology</b><br/>
 &nbsp;&nbsp;🏛️ &nbsp;Annamalai University · OGPA <b>9.25</b><br/>
 &nbsp;&nbsp;🌍 &nbsp;India<br/>
 &nbsp;&nbsp;✉️ &nbsp;<a href="mailto:contact@kanmanibharathi.info">contact@kanmanibharathi.info</a>
@@ -67,7 +67,7 @@
 <h2>⚡ About Me</h2>
 </div>
 
-> I am a **PhD researcher in Plant Molecular Biology & Biotechnology** who lives at the intersection of experimental science and computational engineering. I don't just run experiments — I build the tools to analyze, visualize, and communicate them.
+> I am a **PhD (Doctor) in Plant Molecular Biology & Biotechnology** — a research scientist and computational engineer living at the intersection of experimental science and technology. I don't just run experiments — I build the tools to analyze, visualize, and communicate them.
 
 <table width="100%" border="0">
 <tr>
@@ -331,7 +331,7 @@ Research-oriented computational repository with analysis work and supporting bac
 
 ### 🎓 Academic Background
 
-**PhD** — Plant Molecular Biology & Biotechnology
+**PhD** — Plant Molecular Biology & Biotechnology ✅
 Annamalai University · 2025 · ⭐ OGPA **9.25**
 
 **M.Sc.** — Plant Molecular Biology & Biotechnology
