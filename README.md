@@ -1,85 +1,79 @@
 <div align="center">
 
-# KANMANI BHARATHI
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=KANMANI%20BHARATHI&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=E6EDF3&color=0:07111F,50:0B1F33,100:102A43" width="100%"/>
 
-### `Researcher` · `Biotechnology` · `Bioinformatics` · `AI`
+<h3>Research Scientist · Scientific Software Builder · Computational Biology</h3>
 
 <p>
-  <a href="https://kanmanibharathi.info">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
-  </a>
-  <a href="https://linkedin.com/in/kanmani-bharathi-j">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:contact@kanmanibharathi.info">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Plant+Molecular+Biology+%2B+Computational+Science;Biotechnology+%2B+Bioinformatics+%2B+Data+Analysis;Building+Scientific+Software+for+Real+Research;Science+%E2%86%92+Data+%E2%86%92+Computation+%E2%86%92+Discovery" alt="Typing SVG"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Science+%E2%86%92+Data+%E2%86%92+Discovery;Plant+Molecular+Biology;Biotechnology+%26+Bioinformatics;Scientific+Data+Analysis;AI+for+Scientific+Research" />
+<p>
+  <a href="https://kanmanibharathi.in"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
+  <a href="https://orcid.org/0000-0003-1774-7314"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
+  <a href="https://www.researchgate.net/profile/Kanmani-Bharathi-J"><img src="https://img.shields.io/badge/RESEARCHGATE-0D1117?style=for-the-badge&logo=researchgate&logoColor=00CCBB" /></a>
+  <a href="https://linkedin.com/in/kanmani-bharathi-j"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kanmanibharathi&label=PROFILE+VIEWS&color=00E5FF&style=flat-square" />
+<p>
+  <a href="mailto:contact@kanmanibharathi.info">contact@kanmanibharathi.info</a>
+</p>
 
 </div>
 
 ---
 
-## `01` — About
-
-> **Turning biological questions into computational solutions.**
-
-I work at the intersection of **plant molecular biology, biotechnology, bioinformatics, scientific data analysis, and software engineering**.
-
-My work spans from **wet-lab experimentation and molecular research** to building modern computational tools that make scientific data analysis faster, reproducible, and accessible.
-
-```text
-BIOLOGY
-   ↓
-EXPERIMENT
-   ↓
-DATA
-   ↓
-ANALYSIS
-   ↓
-INSIGHT
-   ↓
-DISCOVERY
-```
-
----
-
-## `02` — What I Build
+## 01 · PROFILE
 
 <table>
 <tr>
-<td width="50%">
+<td width="62%" valign="top">
 
-### 🧬 Scientific Research
+### Research × Technology
 
-- Plant molecular biology
-- Biotechnology
-- Tissue culture & micropropagation
-- Phytochemistry
-- Molecular pharmacology
-- Natural product research
-- Microbial biotechnology
-- Metabolomics
+I am a **PhD researcher in Plant Molecular Biology & Biotechnology** working across the boundary of experimental biology and computational science.
+
+My work connects:
+
+- 🧬 Plant molecular biology & biotechnology
+- 🧪 Tissue culture, micropropagation & phytochemistry
+- 🔬 Natural-product and molecular research
+- 🦠 Microbial biotechnology & plastic biodegradation
+- 📊 Statistical analysis & scientific visualization
+- 🧫 Bioinformatics, transcriptomics & metabolite profiling
+- 💻 Scientific software & research platforms
+- 🤖 AI-assisted approaches for scientific workflows
+
+I am particularly interested in turning complex experimental workflows into **reproducible, usable and researcher-friendly computational tools**.
 
 </td>
-<td width="50%">
 
-### 💻 Computational Science
+<td width="38%" valign="top">
 
-- Bioinformatics
-- Statistical analysis
-- Scientific visualization
-- Data analysis platforms
-- AI-assisted research tools
-- Reproducible workflows
-- Research software
-- Web-based scientific applications
+### CURRENT DIRECTION
+
+```text
+BIOLOGY
+   │
+   ▼
+EXPERIMENT
+   │
+   ▼
+DATA
+   │
+   ▼
+ANALYSIS
+   │
+   ▼
+COMPUTATION
+   │
+   ▼
+DISCOVERY
+```
+
+**Core idea**
+
+> Build technology that makes scientific research easier to analyze, visualize and communicate.
 
 </td>
 </tr>
@@ -87,54 +81,198 @@ DISCOVERY
 
 ---
 
-## `03` — Featured Project
+## 02 · RESEARCH PROFILE
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧬 MOLECULAR
+
+Plant Molecular Biology  
+Plant Biotechnology  
+Tissue Culture  
+Micropropagation  
+Transcriptomics  
+Metabolite Profiling  
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 BIOLOGICAL
+
+Phytochemistry  
+Natural Products  
+Molecular Pharmacology  
+Microbial Biotechnology  
+Plastic Biodegradation  
+Bioassay-guided Research  
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 COMPUTATIONAL
+
+Bioinformatics  
+Experimental Statistics  
+Scientific Visualization  
+Data Analysis  
+Research Software  
+AI-assisted Science  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 · FLAGSHIP WORK
 
 <div align="center">
 
-### 🧪 DATES
-#### **Data Analysis Tool for Experimental Statistics**
-
-<img src="https://img.shields.io/badge/Scientific%20Analysis-00E5FF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistics-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/R%20%7C%20Python-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Web%20Application-10B981?style=flat-square" />
-
-<br><br>
-
-**A modern platform for experimental data analysis, statistical modelling and scientific visualization.**
-
-<br>
+### DATES
+#### Data Analysis Tool for Experimental Statistics
 
 <a href="http://dates.zyndora.in/">
-  <img src="https://img.shields.io/badge/LAUNCH%20DATES-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+<img src="https://img.shields.io/badge/OPEN%20DATES-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=07111F"/>
 </a>
 
 </div>
 
----
+**DATES** is a scientific analysis platform focused on turning experimental datasets into publication-ready statistical results and visualizations.
 
-## `04` — Research × Technology
+### Analysis ecosystem
 
-```mermaid
-flowchart LR
-
-    A[🧬 Biology] --> B[🧪 Experiment]
-    B --> C[📊 Data]
-    C --> D[💻 Computation]
-    D --> E[🤖 AI]
-    E --> F[🔬 Discovery]
-
-    style A fill:#0D1117,stroke:#00E5FF,color:#fff
-    style B fill:#0D1117,stroke:#00E5FF,color:#fff
-    style C fill:#0D1117,stroke:#00E5FF,color:#fff
-    style D fill:#0D1117,stroke:#00E5FF,color:#fff
-    style E fill:#0D1117,stroke:#00E5FF,color:#fff
-    style F fill:#0D1117,stroke:#00E5FF,color:#fff
+```text
+Experimental Data
+      │
+      ├── Descriptive Statistics
+      ├── Hypothesis Testing
+      ├── ANOVA / Experimental Designs
+      ├── Mean Comparison
+      ├── Correlation / Regression
+      ├── Multivariate Analysis
+      ├── Breeding & Mixed Models
+      └── Scientific Visualization
+                    │
+                    ▼
+          Reproducible Results
 ```
 
+The platform reflects my broader goal: **bringing serious statistical methodology into a modern researcher-friendly interface.**
+
 ---
 
-## `05` — Technology Stack
+## 04 · SELECTED BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Research Hub
+
+**Research-oriented web platform**
+
+A web project designed around scientific resources, tools and researcher workflows.
+
+**Stack / focus**
+
+`HTML` `CSS` `JavaScript` `Python` `Web`
+
+<a href="https://github.com/kanmanibharathi/research-hub">Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Research Hub Web
+
+**Scientific web application ecosystem**
+
+A larger web project containing research utilities, educational resources, laboratory calculations and supporting backend components.
+
+**Includes**
+
+`Lab Calculations` · `Courses` · `Events` · `Products` · `Tissue Culture Tools`
+
+<a href="https://github.com/kanmanibharathi/rhub-web">Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📐 DoE
+
+**Design of Experiments**
+
+A dedicated experimental-design project focused on computational workflows for experimental planning.
+
+`HTML` · `JavaScript` · `Statistical Computing`
+
+<a href="https://github.com/kanmanibharathi/DoE">Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 Protein–Ligand Interaction Analyser
+
+**R Shiny structural-biology application**
+
+Analyzes PDB structures and provides:
+
+- Hydrogen-bond detection
+- Hydrophobic contacts
+- Pi-stacking
+- Salt bridges
+- 2D interaction diagrams
+- Network visualization
+- 3D structure visualization
+- CSV / PDF reporting
+
+`R` · `Shiny` · `bio3d` · `Plotly` · `igraph`
+
+<a href="https://github.com/kanmanibharathi/Protein-Ligand-Interaction-Analyser">Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Statistics
+
+**Statistical summary web application**
+
+A focused web project for presenting statistical summaries through a browser-based interface.
+
+`HTML` · `Web`
+
+<a href="https://github.com/kanmanibharathi/statistics">Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧮 RH-BEND
+
+**Research / computational prototype**
+
+A research-oriented computational repository containing analysis work and supporting code.
+
+`Python`
+
+<a href="https://github.com/kanmanibharathi/rh-bend">Repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 · SCIENTIFIC SOFTWARE STACK
 
 <div align="center">
 
@@ -142,77 +280,251 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css" />
 
-### Data · AI · Scientific Computing
+### Scientific & Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,docker,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
 
-### Web · Infrastructure
+`NumPy` · `Pandas` · `Plotly` · `R Shiny` · `DESeq2` · `lme4` · `emmeans`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,linux" />
+### Application Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,redis,git,linux" />
 
 </div>
 
 ---
 
-## `06` — GitHub Analytics
+## 06 · FROM LAB TO SOFTWARE
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🧫
+
+**LAB**
+
+Experimental  
+Biology
+
+</td>
+<td align="center" width="20%">
+
+### 🧬
+
+**MOLECULE**
+
+Genes  
+Metabolites
+
+</td>
+<td align="center" width="20%">
+
+### 📊
+
+**DATA**
+
+Measurements  
+Experiments
+
+</td>
+<td align="center" width="20%">
+
+### 💻
+
+**CODE**
+
+Models  
+Statistics
+
+</td>
+<td align="center" width="20%">
+
+### 🔬
+
+**INSIGHT**
+
+Evidence  
+Discovery
+
+</td>
+</tr>
+</table>
+
+---
+
+## 07 · ACADEMIC BACKGROUND
+
+**PhD — Plant Molecular Biology & Biotechnology**  
+Annamalai University · 2025 · **OGPA 9.25**
+
+**M.Sc. — Plant Molecular Biology & Biotechnology**  
+Annamalai University · 2021 · **OGPA 9.26**
+
+**B.Sc. (Hons.) Agriculture**  
+2019 · **OGPA 8.42**
+
+### Research themes
+
+`Plant Biotechnology` · `Phytochemistry` · `Molecular Biology` · `Biodegradation` · `Transcriptomics` · `Metabolomics`
+
+---
+
+## 08 · RESEARCH → COMPUTATION
+
+```text
+┌──────────────────────┐
+│   EXPERIMENTAL LAB   │
+│  Biology / Chemistry │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│    DATA GENERATION   │
+│  Omics / Assays /    │
+│  Experimental Data   │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│  STATISTICAL LAYER   │
+│ R · Python · Models  │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ SCIENTIFIC SOFTWARE  │
+│ Apps · APIs · Tools  │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│      DISCOVERY       │
+│ Evidence → Insight   │
+└──────────────────────┘
+```
+
+---
+
+## 09 · GITHUB ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://ghstats.dev/api/card?username=kanmanibharathi&theme=radical&border_radius=8" />
+<img width="49%" src="https://ghstats.dev/api/card?username=kanmanibharathi&theme=radical&border_radius=10" />
 
 <img width="49%" src="https://ghstats.dev/api/langs?username=kanmanibharathi&theme=radical&max_langs=12&layout=donut_vertical" />
 
-<br>
+<br><br>
 
-<img width="70%" src="https://ghstats.dev/api/sparkline?username=kanmanibharathi&theme=forest&days=30&width=700&height=120" />
-
-</div>
-
----
-
-## `07` — Current Focus
-
-<div align="center">
-
-| 🔬 Research | 💻 Engineering | 🤖 Future |
-|:---:|:---:|:---:|
-| Molecular Biology | Scientific Software | AI for Science |
-| Biotechnology | Data Platforms | Intelligent Analysis |
-| Bioinformatics | Statistical Tools | Research Automation |
-| Phytochemistry | Visualization | Computational Biology |
+<img width="90%" src="https://ghstats.dev/api/sparkline?username=kanmanibharathi&theme=forest&days=30&width=900&height=110" />
 
 </div>
 
 ---
 
-## `08` — Connect
+## 10 · CURRENT FOCUS
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🔬
+**Research**
+
+Molecular Biology  
+Biotechnology  
+Phytochemistry
+
+</td>
+<td width="25%" align="center">
+
+### 📊
+**Analysis**
+
+Experimental Statistics  
+Bioinformatics  
+Scientific Visualization
+
+</td>
+<td width="25%" align="center">
+
+### 💻
+**Engineering**
+
+Research Platforms  
+Web Applications  
+Data Systems
+
+</td>
+<td width="25%" align="center">
+
+### 🤖
+**Future**
+
+AI for Science  
+Automation  
+Computational Biology
+
+</td>
+</tr>
+</table>
+
+---
+
+## 11 · RESEARCH PRESENCE
 
 <div align="center">
 
-<a href="https://kanmanibharathi.info">
-<img src="https://img.shields.io/badge/Website-kanmanibharathi.info-111827?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
+<a href="https://orcid.org/0000-0003-1774-7314">
+<img src="https://img.shields.io/badge/ORCID-Research%20Identity-A6CE39?style=flat-square&logo=orcid"/>
 </a>
 
-<a href="https://linkedin.com/in/kanmani-bharathi-j">
-<img src="https://img.shields.io/badge/LinkedIn-Kanmani%20Bharathi-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<a href="https://www.researchgate.net/profile/Kanmani-Bharathi-J">
+<img src="https://img.shields.io/badge/ResearchGate-Research%20Profile-00CCBB?style=flat-square&logo=researchgate"/>
 </a>
 
-<a href="mailto:contact@kanmanibharathi.info">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<a href="https://kanmanibharathi.in">
+<img src="https://img.shields.io/badge/Portfolio-Scientific%20Work-58A6FF?style=flat-square&logo=googlechrome"/>
 </a>
 
 </div>
 
-<br>
+---
+
+## 12 · CONNECT
 
 <div align="center">
 
-### `SCIENCE × CODE × DISCOVERY`
+<a href="https://linkedin.com/in/kanmani-bharathi-j">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/Bharathi__JK">X</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/kanmani_bharathi_j/">Instagram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.facebook.com/kanmanibharathi.j">Facebook</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:contact@kanmanibharathi.info">Email</a>
 
-*Building tools that make scientific research more powerful.*
+<br><br>
 
-<br>
+**Open to research collaboration · scientific software · computational biology · interdisciplinary projects**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:111827&height=100&section=footer" />
+</div>
+
+---
+
+<div align="center">
+
+### SCIENCE × CODE × DISCOVERY
+
+<sub>Building computational tools for better scientific research.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:102A43,50:0B1F33,100:07111F" width="100%"/>
 
 </div>
